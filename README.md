@@ -261,7 +261,7 @@ $
 
 ## Authors & Copyrights
 
-* Alfred Abaidoo <[alfred](https://github.com/snipperrjay)>
+* Alfred Abaidoo <[snipperrjay](https://github.com/snipperrjay)>
 * Abdul Malik Dason <[dason-malik](https://github.com/dasonmalik)>
 
 ## More information
